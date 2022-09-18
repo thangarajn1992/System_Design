@@ -5,7 +5,14 @@
 
 ## Theory
 
-* [Page 1](theory/page-1.md)
+* [Scalability](theory/scalability.md)
+* [Latency & Throughput](theory/latency-and-throughput.md)
+* [CAP Theorem](theory/cap-theorem/README.md)
+  * [Consistency](theory/cap-theorem/consistency.md)
+  * [Availability](theory/cap-theorem/availability.md)
+* [DNS](theory/dns.md)
+* [RAID](theory/raid.md)
+* [Load Balancer](theory/load-balancer.md)
 
 ## Real Word Architectures
 
